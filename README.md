@@ -1,6 +1,6 @@
 # Sentinel Ops Toolkit
 
-![CI](https://github.com/jonhsoares2104-commits/sentinel-ops-toolkit/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/joao-guilherm-dev/sentinel-ops-toolkit/actions/workflows/ci.yml/badge.svg)
 
 Coleção de ferramentas de automação e segurança para ambientes Windows,
 construídas em Python (com PowerShell para coleta de dados nativa do
